@@ -56,7 +56,7 @@
     /*  Default Settings  */
     $.fn.TTSlider.defaults = {
 
-        slideShowSpeed: '3000',
+        slideShowSpeed: '2000',
         begintime:'1000',
         transitionEffect: 'fade', // none, fade, simpleSlide, superSlide
         slideDirection: 'N', // N, S, W, E, (if superSlide - NW, NE, SW, SE)
